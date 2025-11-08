@@ -1,42 +1,24 @@
-# FullStack-Mikasa ⚔️
+# FullStack-Mikasa 🛡️
 
-A full-stack web application inspired by Mikasa Ackerman’s precision — built with **Java (Spring Boot)**, **React**, and **MySQL**.  
-Focus: Clean APIs, scalable backend, and intuitive UI/UX.
+A flagship full-stack project showcasing **Java (Spring Boot)**, **React**, and **MySQL** — built with clarity, precision, and reference-grade documentation.
 
 ---
 
 ## ✨ Features
-- 🔐 Secure Authentication (JWT + Spring Security)
-- 📊 Interactive Dashboard with real-time data
-- 🗄️ CRUD operations with optimized SQL queries
-- ⚡ REST APIs with microservice-ready architecture
-- 🎨 Responsive UI with React + TailwindCSS
+- **Auth:** JWT authentication + role-based access control  
+- **APIs:** Clean, versioned CRUD endpoints  
+- **UI:** React dashboard with responsive design  
+- **Architecture:** Microservice-ready backend structure  
+- **Docs:** Legacy-friendly API and system documentation  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 - **Backend:** Java, Spring Boot, Hibernate, MySQL  
 - **Frontend:** React, TailwindCSS, Axios  
-- **Tools:** Docker, Postman, GitHub Actions  
+- **DevOps:** Docker, GitHub Actions  
+- **Tools:** Postman, Mermaid (diagrams)  
 
 ---
 
-## 🚀 Getting Started
-```bash
-# Clone the repo
-git clone https://github.com/your-username/FullStack-Mikasa.git
-
-# Backend setup
-cd backend
-mvn spring-boot:run
-
-# Frontend setup
-cd frontend
-npm install && npm start
-
-
-
----
-
-## 📜 License
-MIT License © 2025 Kartik Choudhary
+## 📂 Project structure
