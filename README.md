@@ -25,19 +25,18 @@ A flagship full-stack project showcasing **Java (Spring Boot)**, **React**, and 
 
 FullStack-Mikasa/
  ┣ backend/
- ┃ ┣ src/
- ┃ ┃ ┣ main/
- ┃ ┃ ┃ ┣ java/com/mikasa/...
- ┃ ┃ ┃ ┣ resources/
+ ┃ ┗ src/
+ ┃   ┗ main/
+ ┃     ┣ java/com/mikasa/
+ ┃     ┗ resources/
  ┣ frontend/
- ┃ ┣ src/
- ┃ ┃ ┣ components/
- ┃ ┃ ┣ pages/
+ ┃ ┣ public/
+ ┃ ┗ src/
+ ┃   ┣ components/
+ ┃   ┗ pages/
  ┣ docs/
- ┃ ┣ API_Documentation.md
+ ┃ ┗ API_Documentation.md
  ┗ README.md
-
-
 
 ---
 
