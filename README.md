@@ -50,8 +50,8 @@ FullStack-Mikasa/
 
 
    cd backend
-mvn spring-boot:run
 
+mvn spring-boot:🟡
 
 cd frontend
 npm install
