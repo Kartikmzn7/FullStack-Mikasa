@@ -33,3 +33,10 @@ mvn spring-boot:run
 # Frontend setup
 cd frontend
 npm install && npm start
+
+
+
+---
+
+## 📜 License
+MIT License © 2025 Kartik Choudhary
