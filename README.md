@@ -50,7 +50,7 @@ FullStack-Mikasa/
 
 
    cd backend
-mvn spring-boot🇧🇳
+mvn spring-boot:run
 
 
 cd frontend
